@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 # Expense Tracker
 
 ## Overview
-Expense Tracker is a simple and efficient web application built with React and Vite that helps users manage their personal finances. It enables users to track income and expenses, maintain a transaction history, and visualize their financial trends with a profit graph.
+Expense Tracker is a simple and efficient web application built with React and Vite that helps users manage their personal finances. It enables users to track income and expenses, maintain a transaction history, and visualize their financial trends with a profit graph. 
+https://budgetsync.netlify.app/ deployed
 
 ## Features
 - Add and delete transactions (income & expenses)
